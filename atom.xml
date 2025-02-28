@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhangda3.github.io</id>
+    <title>1258284的小站</title>
+    <updated>2025-02-28T05:31:06.343Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhangda3.github.io"/>
+    <link rel="self" href="https://zhangda3.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://zhangda3.github.io/images/avatar.png</logo>
+    <icon>https://zhangda3.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 1258284的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://zhangda3.github.io/post/about/</id>
+        <link href="https://zhangda3.github.io/post/about/">
+        </link>
+        <updated>2025-02-26T05:38:53.000Z</updated>
+        <content type="html"><![CDATA[<p>一个小小菜鸟的成长历程😀</p>
+]]></content>
+    </entry>
+</feed>
